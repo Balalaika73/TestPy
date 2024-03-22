@@ -1,6 +1,6 @@
-# Получаем значение из консоли
-user_input = input("Введите значение: ")
-user_input1 = input("Введите значение: ")
+# get var from console
+user_input = input("Write var: ")
+user_input1 = input("Write var: ")
 
-# Выводим полученное значение
-print("Вы ввели:", user_input)
+# print var
+print("You wrote:", user_input)
