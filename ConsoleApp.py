@@ -10,4 +10,4 @@ for i in range(num_count):
     total_sum += num
 
 # Выводим сумму
-print("Сумма введенных чисел:", total_sum)
+print("Summ:", total_sum)
