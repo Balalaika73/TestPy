@@ -1,3 +1,6 @@
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 # Вводим переменные с клавиатуры
 name = input("Введите ваше имя: ")
 age = int(input("Введите ваш возраст: "))
